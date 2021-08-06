@@ -28,3 +28,9 @@ Run local server
 ```
 gatsby develop
 ```
+
+Important !!
+
+```
+Refresh the page two times for load the data (if not loaded)...it is useful for wake up the DYNO
+```
